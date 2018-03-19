@@ -1,0 +1,1 @@
+console.log("Hello gaes.. nama saya AYU WIDYA INGGIT");
